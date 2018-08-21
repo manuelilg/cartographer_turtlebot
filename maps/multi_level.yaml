@@ -5,7 +5,7 @@ maps:
     data_directory: package://cartographer_turtlebot/maps/level1/
   level2:
     yaml: package://cartographer_turtlebot/maps/level2/level2.yaml
-    origin: [0, 0, 3, 0, 0, 0]
+    origin: [0, 0, 3, 0, 0, 0.04]
     data_directory: package://cartographer_turtlebot/maps/level2/
 links:
   - from_point:

@@ -1,4 +1,4 @@
-image: level1_mod.pgm
+image: level1.pgm
 resolution: 0.050000
 origin: [-50.450000, -51.450000, 0.0]
 negate: 0
